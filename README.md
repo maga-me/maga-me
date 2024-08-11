@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maga-me&label=Profile%20views&color=0e75b6&style=flat" alt="maga-me" /> </p>
 
-- 🔭 I’m currently working on **VolpePizza, Mednote, YinYang**
+- 🔭 I’m currently working on **---**
 
 - 🌱 I’m currently learning **Node js**
 
